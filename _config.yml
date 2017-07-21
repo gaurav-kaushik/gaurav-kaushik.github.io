@@ -1,8 +1,9 @@
 title: Gaurav Kaushik
 description: "Data Scientist | Coffee Imbiber "
 google_analytics: UA-23767645-2
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
+  - index
